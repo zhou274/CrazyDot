@@ -137,7 +137,7 @@ public class GameManager : MonoBehaviour
 	}
 	public void ContinueGame()
 	{
-        ShowVideoAd("192if3b93qo6991ed0",
+        ShowVideoAd("1onjn930jo316if83d",
             (bol) => {
                 if (bol)
                 {

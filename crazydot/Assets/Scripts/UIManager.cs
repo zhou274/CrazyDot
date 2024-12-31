@@ -89,7 +89,7 @@ public class UIManager : MonoBehaviour
 
 	public void ShowGameplay()
 	{
-        ShowInterstitialAd("1lcaf5895d5l1293dc",
+        ShowInterstitialAd("9jjei2g8e3r655465d",
             () => {
                 Debug.LogError("--插屏广告完成--");
 
