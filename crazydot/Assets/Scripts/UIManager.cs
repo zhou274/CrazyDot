@@ -89,14 +89,7 @@ public class UIManager : MonoBehaviour
 
 	public void ShowGameplay()
 	{
-        ShowInterstitialAd("9jjei2g8e3r655465d",
-            () => {
-                Debug.LogError("--插屏广告完成--");
-
-            },
-            (it, str) => {
-                Debug.LogError("Error->" + str);
-            });
+        
         mainMenuGui.SetActive(value: false);
 		pauseGui.SetActive(value: false);
 		gameplayGui.SetActive(value: true);
@@ -108,7 +101,15 @@ public class UIManager : MonoBehaviour
 
 	public void ShowGameOver()
 	{
-		mainMenuGui.SetActive(value: false);
+        ShowInterstitialAd("9jjei2g8e3r655465d",
+            () => {
+                Debug.LogError("--插屏广告完成--");
+
+            },
+            (it, str) => {
+                Debug.LogError("Error->" + str);
+            });
+        mainMenuGui.SetActive(value: false);
 		pauseGui.SetActive(value: false);
 		gameplayGui.SetActive(value: false);
 		gameOverGui.SetActive(value: true);
