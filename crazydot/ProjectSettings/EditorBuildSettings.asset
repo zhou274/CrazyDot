@@ -6,5 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/CrazyDot/Scenes/LoadScene.unity
+    guid: 8bfa5aa90f7012d48b3df1783bc0f25a
+  - enabled: 1
     path: Assets/CrazyDot/Scenes/GameScene.unity
     guid: 8f2429af6ffe2e4468b01c772aad0dd9
+  m_configObjects: {}

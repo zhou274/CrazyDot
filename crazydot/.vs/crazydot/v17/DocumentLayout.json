@@ -3,11 +3,15 @@
   "WorkspaceRootPath": "D:\\Unity\\\u68A6\u5E7B\u5C0F\u7403\\crazydot\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0182362E-C690-C467-5429-0970378A2975}|Assembly-CSharp.csproj|d:\\unity\\\u68A6\u5E7B\u5C0F\u7403\\crazydot\\assets\\scripts\\initad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0182362E-C690-C467-5429-0970378A2975}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\initad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0182362E-C690-C467-5429-0970378A2975}|Assembly-CSharp.csproj|D:\\Unity\\\u68A6\u5E7B\u5C0F\u7403\\crazydot\\assets\\scripts\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0182362E-C690-C467-5429-0970378A2975}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0182362E-C690-C467-5429-0970378A2975}|Assembly-CSharp.csproj|d:\\unity\\\u68A6\u5E7B\u5C0F\u7403\\crazydot\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0182362E-C690-C467-5429-0970378A2975}|Assembly-CSharp.csproj|D:\\Unity\\\u68A6\u5E7B\u5C0F\u7403\\crazydot\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0182362E-C690-C467-5429-0970378A2975}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -63,11 +67,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
+              "Title": "InitAd.cs",
+              "DocumentMoniker": "D:\\Unity\\\u68A6\u5E7B\u5C0F\u7403\\crazydot\\Assets\\Scripts\\InitAd.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\InitAd.cs",
+              "ToolTip": "D:\\Unity\\\u68A6\u5E7B\u5C0F\u7403\\crazydot\\Assets\\Scripts\\InitAd.cs",
+              "RelativeToolTip": "Assets\\Scripts\\InitAd.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T08:37:54.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "CebianlanManager.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\WeChat Files\\wxid_9teq3zcmdt6m22\\FileStorage\\File\\2024-12\\CebianlanManager.cs",
               "ToolTip": "C:\\Users\\Administrator\\Documents\\WeChat Files\\wxid_9teq3zcmdt6m22\\FileStorage\\File\\2024-12\\CebianlanManager.cs",
@@ -77,7 +94,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Ball.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\WeChat Files\\wxid_9teq3zcmdt6m22\\FileStorage\\File\\2024-12\\Ball.cs",
               "ToolTip": "C:\\Users\\Administrator\\Documents\\WeChat Files\\wxid_9teq3zcmdt6m22\\FileStorage\\File\\2024-12\\Ball.cs [\u53EA\u8BFB]",
@@ -88,7 +105,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "CebianlanManager.cs",
               "DocumentMoniker": "D:\\Unity\\\u68A6\u5E7B\u5C0F\u7403\\crazydot\\Assets\\Scripts\\CebianlanManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\CebianlanManager.cs",
@@ -96,12 +113,11 @@
               "RelativeToolTip": "Assets\\Scripts\\CebianlanManager.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAIBPwBMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-30T08:36:01.676Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-30T08:36:01.676Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "ADManager.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\WeChat Files\\wxid_9teq3zcmdt6m22\\FileStorage\\File\\2024-12\\ADManager.cs",
               "ToolTip": "C:\\Users\\Administrator\\Documents\\WeChat Files\\wxid_9teq3zcmdt6m22\\FileStorage\\File\\2024-12\\ADManager.cs",
@@ -111,7 +127,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "GameManager.cs",
               "DocumentMoniker": "D:\\Unity\\\u68A6\u5E7B\u5C0F\u7403\\crazydot\\Assets\\Scripts\\GameManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
@@ -119,12 +135,11 @@
               "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
               "ViewState": "AgIAAIsAAAAAAAAAAAAAAKEAAABPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T06:30:02.784Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-19T06:30:02.784Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "UIManager.cs",
               "DocumentMoniker": "D:\\Unity\\\u68A6\u5E7B\u5C0F\u7403\\crazydot\\Assets\\Scripts\\UIManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\UIManager.cs",
@@ -132,12 +147,11 @@
               "RelativeToolTip": "Assets\\Scripts\\UIManager.cs",
               "ViewState": "AgIAAFUAAAAAAAAAAAASwHUAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T06:43:13.486Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-19T06:43:13.486Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "SideLine.cs",
               "DocumentMoniker": "D:\\Unity\\\u68A6\u5E7B\u5C0F\u7403\\crazydot\\Assets\\Scripts\\SideLine.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\SideLine.cs",
@@ -149,7 +163,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "ScoreManager.cs",
               "DocumentMoniker": "D:\\Unity\\\u68A6\u5E7B\u5C0F\u7403\\crazydot\\Assets\\Scripts\\ScoreManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ScoreManager.cs",
@@ -161,7 +175,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Player.cs",
               "DocumentMoniker": "D:\\Unity\\\u68A6\u5E7B\u5C0F\u7403\\crazydot\\Assets\\Scripts\\Player.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player.cs",
@@ -173,7 +187,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Obstacle.cs",
               "DocumentMoniker": "D:\\Unity\\\u68A6\u5E7B\u5C0F\u7403\\crazydot\\Assets\\Scripts\\Obstacle.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Obstacle.cs",
@@ -185,7 +199,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "GameState.cs",
               "DocumentMoniker": "D:\\Unity\\\u68A6\u5E7B\u5C0F\u7403\\crazydot\\Assets\\Scripts\\GameState.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\GameState.cs",
@@ -197,7 +211,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "BorderLine.cs",
               "DocumentMoniker": "D:\\Unity\\\u68A6\u5E7B\u5C0F\u7403\\crazydot\\Assets\\Scripts\\BorderLine.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\BorderLine.cs",
@@ -209,7 +223,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "AudioManager.cs",
               "DocumentMoniker": "D:\\Unity\\\u68A6\u5E7B\u5C0F\u7403\\crazydot\\Assets\\Scripts\\AudioManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\AudioManager.cs",
@@ -221,7 +235,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "AudioButton.cs",
               "DocumentMoniker": "D:\\Unity\\\u68A6\u5E7B\u5C0F\u7403\\crazydot\\Assets\\Scripts\\AudioButton.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\AudioButton.cs",
